@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.lpl.AppTest" time="0.042" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="F:\zkrIdea\springbootstarterhelllo\target\test-classes;F:\zkrIdea\springbootstarterhelllo\target\classes;F:\apache-maven-3.0.4\repositoryTest\org\springframework\boot\spring-boot-autoconfigure\2.1.8.RELEASE\spring-boot-autoconfigure-2.1.8.RELEASE.jar;F:\apache-maven-3.0.4\repositoryTest\org\springframework\boot\spring-boot\2.1.8.RELEASE\spring-boot-2.1.8.RELEASE.jar;F:\apache-maven-3.0.4\repositoryTest\org\springframework\spring-core\5.1.9.RELEASE\spring-core-5.1.9.RELEASE.jar;F:\apache-maven-3.0.4\repositoryTest\org\springframework\spring-jcl\5.1.9.RELEASE\spring-jcl-5.1.9.RELEASE.jar;F:\apache-maven-3.0.4\repositoryTest\org\springframework\spring-context\5.1.9.RELEASE\spring-context-5.1.9.RELEASE.jar;F:\apache-maven-3.0.4\repositoryTest\org\springframework\spring-aop\5.1.9.RELEASE\spring-aop-5.1.9.RELEASE.jar;F:\apache-maven-3.0.4\repositoryTest\org\springframework\spring-beans\5.1.9.RELEASE\spring-beans-5.1.9.RELEASE.jar;F:\apache-maven-3.0.4\repositoryTest\org\springframework\spring-expression\5.1.9.RELEASE\spring-expression-5.1.9.RELEASE.jar;F:\apache-maven-3.0.4\repositoryTest\junit\junit\4.11\junit-4.11.jar;F:\apache-maven-3.0.4\repositoryTest\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 8.1"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="D:\java\jdk1.8.0_73\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\lpl\AppData\Local\Temp\surefire655072555278102926\surefirebooter6080919356872028973.jar C:\Users\lpl\AppData\Local\Temp\surefire655072555278102926 2019-09-17T00-25-32_504-jvmRun1 surefire1773554422311626976tmp surefire_04350146597501259828tmp"/>
+    <property name="surefire.test.class.path" value="F:\zkrIdea\springbootstarterhelllo\target\test-classes;F:\zkrIdea\springbootstarterhelllo\target\classes;F:\apache-maven-3.0.4\repositoryTest\org\springframework\boot\spring-boot-autoconfigure\2.1.8.RELEASE\spring-boot-autoconfigure-2.1.8.RELEASE.jar;F:\apache-maven-3.0.4\repositoryTest\org\springframework\boot\spring-boot\2.1.8.RELEASE\spring-boot-2.1.8.RELEASE.jar;F:\apache-maven-3.0.4\repositoryTest\org\springframework\spring-core\5.1.9.RELEASE\spring-core-5.1.9.RELEASE.jar;F:\apache-maven-3.0.4\repositoryTest\org\springframework\spring-jcl\5.1.9.RELEASE\spring-jcl-5.1.9.RELEASE.jar;F:\apache-maven-3.0.4\repositoryTest\org\springframework\spring-context\5.1.9.RELEASE\spring-context-5.1.9.RELEASE.jar;F:\apache-maven-3.0.4\repositoryTest\org\springframework\spring-aop\5.1.9.RELEASE\spring-aop-5.1.9.RELEASE.jar;F:\apache-maven-3.0.4\repositoryTest\org\springframework\spring-beans\5.1.9.RELEASE\spring-beans-5.1.9.RELEASE.jar;F:\apache-maven-3.0.4\repositoryTest\org\springframework\spring-expression\5.1.9.RELEASE\spring-expression-5.1.9.RELEASE.jar;F:\apache-maven-3.0.4\repositoryTest\junit\junit\4.11\junit-4.11.jar;F:\apache-maven-3.0.4\repositoryTest\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\lpl"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="D:\java\jdk1.8.0_73\jre"/>
+    <property name="basedir" value="F:\zkrIdea\springbootstarterhelllo"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\lpl\AppData\Local\Temp\surefire655072555278102926\surefirebooter6080919356872028973.jar"/>
+    <property name="sun.boot.class.path" value="D:\java\jdk1.8.0_73\jre\lib\resources.jar;D:\java\jdk1.8.0_73\jre\lib\rt.jar;D:\java\jdk1.8.0_73\jre\lib\sunrsasign.jar;D:\java\jdk1.8.0_73\jre\lib\jsse.jar;D:\java\jdk1.8.0_73\jre\lib\jce.jar;D:\java\jdk1.8.0_73\jre\lib\charsets.jar;D:\java\jdk1.8.0_73\jre\lib\jfr.jar;D:\java\jdk1.8.0_73\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_73-b02"/>
+    <property name="user.name" value="李小李"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="6.3"/>
+    <property name="java.endorsed.dirs" value="D:\java\jdk1.8.0_73\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="F:\apache-maven-3.0.4\repositoryTest"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\lpl\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2018.1.5"/>
+    <property name="java.version" value="1.8.0_73"/>
+    <property name="user.dir" value="F:\zkrIdea\springbootstarterhelllo"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="D:\java\jdk1.8.0_73\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\NetSarang;D:\app\LPL\product\11.2.0\dbhome_1\bin;C:\windows\system32;C:\windows;C:\windows\System32;F:\apache-maven-3.0.4\bin;D:\mongodb\bin;C:\Windows\system32\wbem;D:\java\jdk1.8.0_73\bin;D:\Program Files\TortoiseSVN\bin;D:\MySql5.6\bin;d:\Program Files\OpenVPN\bin;F:\apache-maven-3.0.4\bin;D:\git\Git\cmd;F:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;F:\Program Files\Microsoft SQL Server\100\Tools\Binn\;F:\Program Files\Microsoft SQL Server\100\DTS\Binn\;F:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;F:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;G:\heeh\redis-2.6\redis-2.6\bin;D:\nodejs\;D:\Python\Scripts\;D:\Python\;D:\Program Files\UE\;D:\nodejs\node_global;C:\Users\lpl\AppData\Roaming\npm;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.73-b02"/>
+    <property name="java.ext.dirs" value="D:\java\jdk1.8.0_73\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.lpl.AppTest" time="0.003"/>
+</testsuite>

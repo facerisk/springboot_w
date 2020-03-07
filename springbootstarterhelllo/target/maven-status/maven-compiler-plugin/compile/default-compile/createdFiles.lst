@@ -1,0 +1,4 @@
+com\lpl\spring_boot_starter_hello\HelloServiceProperties.class
+com\lpl\spring_boot_starter_hello\HelloServiceAutoConfigration.class
+com\lpl\App.class
+com\lpl\spring_boot_starter_hello\HelloService.class
